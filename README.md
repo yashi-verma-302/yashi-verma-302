@@ -83,6 +83,5 @@
 ### 📬 How to reach me:
 
 📧 yashiverma323@gmail.com  
-📱 9601550867  
 
 ---
