@@ -24,8 +24,8 @@
 
 <p align="left">
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>     
-  
+  <img src="https://img.icons8.com/color/48/amazon-web-services.png" alt="aws" width="40" height="40"/>
+       
   <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
 
