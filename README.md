@@ -24,7 +24,7 @@
 
 <p align="left">
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="aws" width="40" height="40"/>     
   
   <!-- Azure -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" alt="azure" width="40" height="40"/>
@@ -64,12 +64,6 @@
 
   <!-- Redis -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" alt="redis" width="40" height="40"/>
-
-  <!-- Nomad -->
-  <img src="https://www.vectorlogo.zone/logos/hashicorp_nomad/hashicorp_nomad-icon.svg" alt="nomad" width="40" height="40"/>
-
-  <!-- Networking (Generic Icon) -->
-  <img src="https://cdn-icons-png.flaticon.com/512/2274/2274490.png" alt="networking" width="40" height="40"/>
 </p>
 
 ### 📊 GitHub Stats:
