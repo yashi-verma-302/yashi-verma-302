@@ -56,12 +56,6 @@
 
 ---
 
-### 🏆 GitHub Trophies:
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yashi-verma-302&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ### 🔥 GitHub Contribution Graph:
 
 <p align="center">
