@@ -52,17 +52,13 @@
   <img src="https://github-readme-stats.vercel.app/api?username=yashi-verma-302&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yashi-verma-302" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=yashi-verma-302&theme=radical)](https://git.io/streak-stats)
 
 ---
 
 ### 🏆 GitHub Trophies:
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yashi-verma-302&theme=gruvbox&no-frame=true&margin-w=10" alt="GitHub Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=yashi-verma-302&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
